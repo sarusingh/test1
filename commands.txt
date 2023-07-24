@@ -1,0 +1,11 @@
+git init - initialization
+git add hello.txt
+git config --global user.name "sarusingh"
+git config --global user.email "sarusingh30@gmail.com"
+git add *
+git status
+git commit -m "my first comment"
+git push
+git add *
+git config --global http.sslverify false
+
